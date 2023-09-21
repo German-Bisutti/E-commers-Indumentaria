@@ -1,6 +1,6 @@
 # 🛒 Proyecto E-commerce de Indumentaria 🛍️
 
-## 🌟 Bienvenido a Espacio Flipante: Tu Destino de Moda en Línea 🌟
+##  Bienvenido a Espacio Flipante: Tu Destino de Moda en Línea 
 
 ¡Descubre nuestro emocionante proyecto de e-commerce de indumentaria, donde no solo compras ropa elegante, sino que también experimentas una forma única de comprar en línea! 👕👚👖
 
