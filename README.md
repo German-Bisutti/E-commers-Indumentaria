@@ -1,10 +1,11 @@
 # 🛒 Proyecto E-commerce de Indumentaria 🛍️
 
-##  Bienvenido a Espacio Flipante: Tu Destino de Moda en Línea 
+## Bienvenido a Espacio Flipante: Tu Destino de Moda en Línea
 
 ¡Descubre nuestro emocionante proyecto de e-commerce de indumentaria, donde no solo compras ropa elegante, sino que también experimentas una forma única de comprar en línea! 👕👚👖
 
-##  Características Destacadas 
+## Características Destacadas
+
 🛒 Carrito de Compras: Agrega tus productos favoritos y completa tu compra de manera conveniente.
 
 📜 Historial de Compra: Lleva un registro de todas tus compras anteriores.
@@ -21,7 +22,8 @@
 
 📦 Gestión de Inventario: Controla el stock, tallas y cantidades en nuestra robusta base de datos.
 
-##  Tecnologías Utilizadas 
+## Tecnologías Utilizadas
+
 🏢 Firebase: Verificación de cuentas y almacenamiento de imágenes.
 
 🗃️ Base de Datos Postgres (u otra similar): Almacena datos de órdenes, carritos, compras y productos.
@@ -35,10 +37,31 @@
 🌐 HTML y CSS: Diseño y maquetación web.
 
 ## Este repositorio es una duplicación del repositorio original, dividido en dos carpetas:
+
 📁 Back-End Original: [Server](https://github.com/NiettoVale/PF-ESPACIO-FLIPANTE-BACK)
 
 📁 Front-End Original: [Client](https://github.com/NiettoVale/PF_FRONT_ESPACIO_FLIPANTE)
 
 ## Deploy: [Espacio-Flipante](https://espacio-flipante-pf.vercel.app/)
+
+## Fotos de la Pagina
+
+![Login](./Client/src/assets/Login_Foto.png)
+
+![Home](./Client/src/assets/Home.png)
+
+![Filtros/Catalogo](./Client/src/assets/Filtros%20y%20Catalogo.png.png)
+
+![Footer](./Client/src/assets/Footer.png.png)
+
+![Admin](./Client/src/assets/Admin%201.png.png)
+
+![Admin](./Client/src/assets/Admin%202.png.png)
+
+![Carrito](./Client/src/assets/Carrito.png.png)
+
+![Checkout](./Client/src/assets/Checkout.png.png)
+
+![Detail](./Client/src/assets/Detail.png)
 
 ¡Explora nuestro emocionante proyecto de e-commerce y contribuye para hacerlo aún más espectacular! 🚀
