@@ -50,7 +50,7 @@
 
 ![Home](./Client/src/assets/Home.png)
 
-![Filtros/Catalogo](./Client/src/assets/Filtros%20y%20Catalogo.png)
+![Filtros/Catalogo](./Client/src/assets/Filtros y Catalogo.png)
 
 ![Footer](./Client/src/assets/Footer.png)
 
