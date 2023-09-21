@@ -35,9 +35,9 @@
 🌐 HTML y CSS: Diseño y maquetación web.
 
 ## Este repositorio es una duplicación del repositorio original, dividido en dos carpetas:
-📁 Back-End Original: [Server]([https://www.linkedin.com/in/german-bisutti/](https://github.com/NiettoVale/PF-ESPACIO-FLIPANTE-BACK))
+📁 Back-End Original: [Server](https://www.linkedin.com/in/german-bisutti/](https://github.com/NiettoVale/PF-ESPACIO-FLIPANTE-BACK)
 
-📁 Front-End Original: [Client]([https://www.linkedin.com/in/german-bisutti/](https://github.com/NiettoVale/PF_FRONT_ESPACIO_FLIPANTE))
+📁 Front-End Original: [Client](https://www.linkedin.com/in/german-bisutti/](https://github.com/NiettoVale/PF_FRONT_ESPACIO_FLIPANTE)
 
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/german-bisutti/)
 
