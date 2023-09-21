@@ -39,6 +39,6 @@
 
 📁 Front-End Original: [Client](https://www.linkedin.com/in/german-bisutti/](https://github.com/NiettoVale/PF_FRONT_ESPACIO_FLIPANTE)
 
-- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/german-bisutti/)
+- LinkedIn: [Perfil de LinkedIn]([https://www.linkedin.com/in/german-bisutti/](https://github.com/NiettoVale/PF-ESPACIO-FLIPANTE-BACK))
 
 ¡Explora nuestro emocionante proyecto de e-commerce y contribuye para hacerlo aún más espectacular! 🚀
