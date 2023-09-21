@@ -4,7 +4,7 @@
 
 ¡Descubre nuestro emocionante proyecto de e-commerce de indumentaria, donde no solo compras ropa elegante, sino que también experimentas una forma única de comprar en línea! 👕👚👖
 
-## ✨ Características Destacadas ✨
+##  Características Destacadas 
 🛒 Carrito de Compras: Agrega tus productos favoritos y completa tu compra de manera conveniente.
 
 📜 Historial de Compra: Lleva un registro de todas tus compras anteriores.
@@ -21,8 +21,7 @@
 
 📦 Gestión de Inventario: Controla el stock, tallas y cantidades en nuestra robusta base de datos.
 
-## 🚀 Tecnologías Utilizadas 🚀
-
+##  Tecnologías Utilizadas 
 🏢 Firebase: Verificación de cuentas y almacenamiento de imágenes.
 
 🗃️ Base de Datos Postgres (u otra similar): Almacena datos de órdenes, carritos, compras y productos.
@@ -40,4 +39,4 @@
 
 📁 Front-End Original: Enlace
 
-¡Explora nuestro emocionante proyecto de e-commerce y contribuye para hacerlo aún más espectacular! 🚀👕👠 #EspacioFlipante #Ecommerce #CompraEnLínea
+¡Explora nuestro emocionante proyecto de e-commerce y contribuye para hacerlo aún más espectacular! 🚀
