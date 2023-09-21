@@ -50,17 +50,17 @@
 
 ![Home](./Client/src/assets/Home.png)
 
-![Filtros/Catalogo](./Client/src/assets/Filtros%20y%20Catalogo.png.png)
+![Filtros/Catalogo](./Client/src/assets/Filtros%20y%20Catalogo.png)
 
-![Footer](./Client/src/assets/Footer.png.png)
+![Footer](./Client/src/assets/Footer.png)
 
-![Admin](./Client/src/assets/Admin%201.png.png)
+![Admin](./Client/src/assets/Admin%201.png)
 
-![Admin](./Client/src/assets/Admin%202.png.png)
+![Admin](./Client/src/assets/Admin%202.png)
 
-![Carrito](./Client/src/assets/Carrito.png.png)
+![Carrito](./Client/src/assets/Carrito.png)
 
-![Checkout](./Client/src/assets/Checkout.png.png)
+![Checkout](./Client/src/assets/Checkout.png)
 
 ![Detail](./Client/src/assets/Detail.png)
 
