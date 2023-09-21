@@ -35,8 +35,8 @@
 🌐 HTML y CSS: Diseño y maquetación web.
 
 ## Este repositorio es una duplicación del repositorio original, dividido en dos carpetas:
-📁 Back-End Original: [Server]((https://github.com/NiettoVale/PF-ESPACIO-FLIPANTE-BACK))
+📁 Back-End Original: [Server]([https://github.com/NiettoVale/PF-ESPACIO-FLIPANTE-BACK])
 
-📁 Front-End Original: [Client]((https://github.com/NiettoVale/PF_FRONT_ESPACIO_FLIPANTE))
+📁 Front-End Original: [Client]([https://github.com/NiettoVale/PF_FRONT_ESPACIO_FLIPANTE])
 
 ¡Explora nuestro emocionante proyecto de e-commerce y contribuye para hacerlo aún más espectacular! 🚀
