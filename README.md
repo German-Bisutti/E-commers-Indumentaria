@@ -1,10 +1,10 @@
-#🛒 Proyecto E-commerce de Indumentaria 🛍️
+# 🛒 Proyecto E-commerce de Indumentaria 🛍️
 
-##🌟 Bienvenido a Espacio Flipante: Tu Destino de Moda en Línea 🌟
+## 🌟 Bienvenido a Espacio Flipante: Tu Destino de Moda en Línea 🌟
 
 ¡Descubre nuestro emocionante proyecto de e-commerce de indumentaria, donde no solo compras ropa elegante, sino que también experimentas una forma única de comprar en línea! 👕👚👖
 
-##✨ Características Destacadas ✨
+## ✨ Características Destacadas ✨
 🛒 Carrito de Compras: Agrega tus productos favoritos y completa tu compra de manera conveniente.
 📜 Historial de Compra: Lleva un registro de todas tus compras anteriores.
 💳 Pasarela de Pago: Realiza pagos seguros y sin complicaciones.
@@ -21,8 +21,7 @@
 🚀 Express: Gestión de servidores y rutas.
 🌐 HTML y CSS: Diseño y maquetación web.
 
-##Este repositorio es una duplicación del repositorio original, dividido en dos carpetas:
-
+## Este repositorio es una duplicación del repositorio original, dividido en dos carpetas:
 📁 Back-End Original: Enlace
 📁 Front-End Original: Enlace
 ¡Explora nuestro emocionante proyecto de e-commerce y contribuye para hacerlo aún más espectacular! 🚀👕👠 #EspacioFlipante #Ecommerce #CompraEnLínea
